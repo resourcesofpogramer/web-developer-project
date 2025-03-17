@@ -1,0 +1,148 @@
+body{ font-family: "Open Sans", sans-serif;}
+#nn{color:#FD6E0A;}
+.ss{display: flex;
+font-size: 45px;
+font-weight: 800;}
+nav{display: flex;
+align-items: center;
+justify-content: space-between;
+margin: 0 200px;}
+nav > ul{display: flex;
+align-items: center;}
+nav li{list-style: none;
+margin-right: 50px;}
+nav a { text-decoration: none;
+color: #474747;}
+.botton{background-color: #FD6E0A;
+border-radius: 5px;
+border: 0px;
+color: white;
+font-weight: 700;
+font-size: 20px;
+padding: 15px 35px;}
+.heder{background-color: #fff8f3;
+background-image: url(images/header_bg.png);
+
+background-repeat: no-repeat;
+background-position: bottom right;
+}
+main section{margin-top: 130px;}
+.baner{
+   padding: 30px 30px 0px 150px;
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+}
+.baner .img{width: 500;
+}
+.oo{font-size: 45px;
+    margin-bottom: 0;
+    color: #474747;
+
+}
+.yusuf{
+    font-size: 85px;
+    font-weight: 700px;
+}
+.about{
+    padding: 130px;
+    border-radius: 10px;
+    background-color: #fff8f3;
+    margin: 130px 0;
+}
+.titel{
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700px;
+    line-height: normal;
+}
+.discription{
+    color: #757575;
+    font-size: 18px;
+    text-align: center;
+}
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+}
+.pp{
+    display: flex;
+    justify-content: space-around;
+}
+.ff{
+    text-align: center;
+}
+#what{
+    padding: 30px px;
+
+}
+.skil{
+display: flex;
+gap: 24px;
+}
+.vv{
+   padding: 30px 10px;
+
+   border-radius: 5px;
+   background-color: #FFF;
+   box-shadow: 0px 6px 50px 0px rgba(0, 0, 0, 0.06);
+ 
+}
+.dd{
+    color: #757575;
+}
+main section{
+    margin: 130px;
+}
+.resumi-colum-titel{
+    color: #474747;
+    font-size: 30px;
+    font-weight: 700;
+}
+.resumi-continer{
+    display: flex; 
+    gap: 50px;
+    
+}
+.resumi-description, .resumi-item-ins{
+    color: #757575;
+}
+.resumi-item-titel{color: #474747;
+    font-size: 25px;
+    font-weight: 700;
+    margin-bottom: 10px;
+}
+.resumi-continer hr{
+    margin: 30px;
+}
+.resumi-item-ins{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.dawnlodcv{
+    text-align: center;
+    margin-top: 50px;
+}
+footer{
+    display: flex;
+    background-color: #fff8f3;
+    margin-top: 100px;
+    padding: 130px 200px;
+    gap: 100px;}
+.footer-colum{
+    width: 50%;
+}
+.contyact input[type="text"], .contyact input[type="email"], textarea {
+    display: block;
+    margin-bottom: 25px; 
+    padding: 18px 35px;
+    color: #757575;
+    border-radius: 5px;
+    background-color: #fff;
+    border: 0;
+    width: 100%;
+}
+.fbicon, a{
+    margin: 25px;
+}
